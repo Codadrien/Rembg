@@ -1,0 +1,21 @@
+{
+    "name": "remove-bg-gui",
+    "version": "1.0.0",
+    "description": "Application GUI pour supprimer le fond des images",
+    "main": "remove_bg_gui.py",
+    "scripts": {
+        "start": "python remove_bg_gui.py",
+        "install-deps": "pip install -r requirements.txt"
+    },
+    "keywords": [
+        "image",
+        "background-removal",
+        "gui",
+        "python"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "python-shell": "^5.0.0"
+    }
+}
